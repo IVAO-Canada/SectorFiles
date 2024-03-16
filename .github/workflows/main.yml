@@ -1,0 +1,47 @@
+name: ZIP Sectors
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+    Archive:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v1
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r CZEG.zip . -i Include/XA/czeg/* "CZEG Edmonton FIR.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r CZQM.zip . -i Include/XA/czqm/* "CZQM Moncton FIR.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r CZUL.zip . -i Include/XA/czul/* "CZUL Montreal FIR.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r CDQX.zip . -i Include/XA/cdqx/* "CDQX Gander FIR.isc"                       
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r CZVR.zip . -i Include/XA/czvr/* "CZVR Vancouver FIR.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r CZWG.zip . -i Include/XA/czwg/* "CZWG Winnipeg FIR.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r CZYZ.zip . -i Include/XA/czyz/* "CZYZ Toronto FIR.isc"
+        - uses: montudor/action-zip@v1
+          with:
+            args: zip -qq -r ALL_SECTORS.zip . -i *.zip
+            # testing
+        - run: ls -la
+        - run: export title="Automatic Release $(date -u +%F_%H:%M:%S)"
+        - uses: "marvinpinto/action-automatic-releases@latest"
+          with:
+            repo_token: "${{ secrets.GITHUB_TOKEN }}"
+            automatic_release_tag: "latest"
+            prerelease: false
+            title: "${{ env.title }}"
+            files: |
+              *.zip
