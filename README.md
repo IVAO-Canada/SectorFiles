@@ -1,9 +1,5 @@
 # IVAO Canada Sectorfiles Repository  
 
-## Overview
-<img src="https://i.imgur.com/ICY6mKJ.png" alt=""/>
-(https://octo-repo-visualization.vercel.app/?repo=ivao-xa%2Fsectorfiles)
-
 ## FAQ
 
 Q: How often are sectorfiles released?
