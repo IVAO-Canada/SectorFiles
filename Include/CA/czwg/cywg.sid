@@ -1,5 +1,5 @@
 // CYWG SIDs
-// Auto-generated 3/23/2024 by Wes Sleeman (XA)
+// Auto-generated 5/18/2024 by Wes Sleeman (XA)
 
 
 //// DUXUS1 ////
@@ -12,12 +12,12 @@ PEPKA;PEPKA;
 
 
 
-//// KARIS1 ////
-CYWG;36;KARIS1;CYWG;CYWG;
+//// KARIS2 ////
+CYWG;36;KARIS2;CYWG;CYWG;
 GABAX;GABAX;<br>;
 KARIS;KARIS;
 
-//// END KARIS1 ////
+//// END KARIS2 ////
 
 //// MUSIB1 ////
 CYWG;13;MUSIB1;CYWG;CYWG;

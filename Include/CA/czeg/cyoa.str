@@ -1,5 +1,5 @@
 // CYOA STARs
-// Auto-generated 3/23/2024 by Wes Sleeman (XA)
+// Auto-generated 5/18/2024 by Wes Sleeman (XA)
 
 // CYOA Approaches
 
@@ -18,7 +18,7 @@ KEDPA;KEDPA;
 
 CYOA;02;GA RNV02;CYOA;CYOA;5;
 RADAN;RADAN;<br>;
-RADAN;RADAN;@3000;
+RADAN;RADAN;@3200;
 //// END RNV02 ////
 
 //// RNV20 ////
@@ -32,5 +32,5 @@ IRLAG;IRLAG;
 
 CYOA;20;GA RNV20;CYOA;CYOA;5;
 MIDBU;MIDBU;<br>;
-MIDBU;MIDBU;@2800;
+MIDBU;MIDBU;@3200;
 //// END RNV20 ////
