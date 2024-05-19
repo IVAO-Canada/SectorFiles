@@ -23,6 +23,9 @@ jobs:
             args: zip -qq -r CZUL.zip . -i Include/CA/czul/* "CZUL Montreal FIR.isc"
         - uses: montudor/action-zip@v1
           with:
+            args: zip -qq -r CZQX.zip . -i Include/CA/czqm/* "CZQX Gander-Shanwick Oceanic FIR.isc"
+        - uses: montudor/action-zip@v1
+          with:        
             args: zip -qq -r CDQX.zip . -i Include/CA/cdqx/* "CDQX Gander FIR.isc"                       
         - uses: montudor/action-zip@v1
           with:
