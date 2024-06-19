@@ -1,23 +1,28 @@
 // LFVP STARs
-// Auto-generated 5/18/2024 by Wes Sleeman (XA)
+// Auto-generated 6/19/2024 by Wes Sleeman (XA)
 
 // LFVP Approaches
 
 
+//// ILSY26 ////
+LFVP;26;ILSY26;LFVP;LFVP;3;
+CI26;CI26;<br>;
+CI26;CI26;^2000;
+FI26;FI26;@1600;
+IMOSA;IMOSA;<br>;
+IMOSA;IMOSA;@220K;
+CI26;CI26;
 
+LFVP;26;GA ILSY26;LFVP;LFVP;5;
+SP;SP;<br>;
+SP;SP;^2000 @220K;
+//// END ILSY26 ////
 
 //// ILSZ26 ////
 LFVP;26;ILSZ26;LFVP;LFVP;3;
-SEGAS;SEGAS;<br>;
-SEGAS;SEGAS;^1600;
+FI26;FI26;<br>;
 FI26;FI26;@1600;
-IMOSA;IMOSA;<br>;
-IMOSA;IMOSA;^1600;
-SEGAS;SEGAS;
 
-LFVP;26;GA ILSZ26;LFVP;LFVP;5;
-SP;SP;<br>;
-SP;SP;^2000 @220K;
 //// END ILSZ26 ////
 
 //// NDM08 ////
