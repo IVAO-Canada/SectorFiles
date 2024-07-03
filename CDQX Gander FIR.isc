@@ -73,3 +73,16 @@ F;ad\cyqy.geo
 F;ad\cysj.geo
 F;ad\cyyg.geo
 F;ad\cycl.geo
+
+[CPDLCNAMES]
+14;CA DELIVERY;
+15;CA GROUND;
+16;CA TOWER;
+17;CA APP DEP;
+18;CA ENROUTE;
+
+[CPDLC]
+F;phraseology.cpdlc
+
+
+
