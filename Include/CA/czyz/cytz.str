@@ -1,5 +1,5 @@
 // CYTZ STARs
-// Auto-generated 6/19/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // CYTZ Approaches
 
@@ -41,7 +41,7 @@ VIPRI;VIPRI;<br>;
 VIPRI;VIPRI;^2000;
 RABIX;RABIX;@1500;
 XIDEK;XIDEK;^1220;
-MA26;MA26;@309;
+MA26;MA26;@305;
 ALGUR;ALGUR;<br>;
 ALGUR;ALGUR;@200K;
 VIPRI;VIPRI;
@@ -54,7 +54,7 @@ VIPRI;VIPRI;
 
 CYTZ;26;GA LOC26;CYTZ;CYTZ;5;
 MUSET;MUSET;<br>;
-MUSET;MUSET;@1600;
+MUSET;MUSET;@2000;
 //// END LOC26 ////
 
 //// RNVW08 ////

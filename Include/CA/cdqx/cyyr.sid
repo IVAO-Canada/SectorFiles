@@ -1,4 +1,27 @@
 // CYYR SIDs
-// Auto-generated 6/19/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 
+//// GSBAY1 ////
+CYYR;15;GSBAY1;CYYR;CYYR;
+SELIT;SELIT;<br>;
+
+//// END GSBAY1 ////
+
+//// LABDR1 ////
+CYYR;26;LABDR1;CYYR;CYYR;
+TUDER;TUDER;<br>;
+
+//// END LABDR1 ////
+
+//// MEALY1 ////
+CYYR;08;MEALY1;CYYR;CYYR;
+ILIMA;ILIMA;<br>;
+
+//// END MEALY1 ////
+
+//// TRNGT1 ////
+CYYR;33;TRNGT1;CYYR;CYYR;
+SEBIM;SEBIM;<br>;
+
+//// END TRNGT1 ////

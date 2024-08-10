@@ -1,5 +1,5 @@
 // CYEV STARs
-// Auto-generated 6/19/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // CYEV Approaches
 
@@ -42,8 +42,9 @@ YEV;YEV;@2300;
 //// RNV06 ////
 CYEV;06;RNV06;CYEV;CYEV;3;
 AVUVI;AVUVI;<br>;
-AVUVI;AVUVI;^1900;
+AVUVI;AVUVI;^2700;
 PEVKA;PEVKA;@1900;
+AVUVI;AVUVI;
 DUTAG;DUTAG;<br>;
 DUTAG;DUTAG;@210K;
 AVUVI;AVUVI;

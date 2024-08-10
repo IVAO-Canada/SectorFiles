@@ -1,5 +1,5 @@
 // CYOW STARs
-// Auto-generated 6/19/2024 by Wes Sleeman (XA)
+// Auto-generated 8/10/2024 by Wes Sleeman (XA)
 
 // CYOW Approaches
 
@@ -7,7 +7,7 @@
 //// ILS07 ////
 CYOW;07;ILS07;CYOW;CYOW;3;
 VISOL;VISOL;<br>;
-VISOL;VISOL;^3000 @200K;
+VISOL;VISOL;^3000 @190K;
 AMOBI;AMOBI;@1710;
 MODON;MODON;<br>;
 MODON;MODON;^3000 @210K;
@@ -16,9 +16,6 @@ TILOG;TILOG;<br>;
 TILOG;TILOG;^3000 @210K;
 VISOL;VISOL;
 
-CYOW;07;GA ILS07;CYOW;CYOW;5;
-TEFLY;TEFLY;<br>;
-TEFLY;TEFLY;@3000;
 //// END ILS07 ////
 
 //// ILS32 ////
