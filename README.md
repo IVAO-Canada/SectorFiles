@@ -6,7 +6,7 @@ Q: How often are sectorfiles released?
 A: All FIR sectorfiles are published each AIRAC cycle.
 
 Q: Can anyone contribute?
-A: Yes, simpy follow the tutorials in our wiki on getting started.
+A: Yes, simply follow the tutorials in our wiki on getting started.
 
 ## Structure
 
