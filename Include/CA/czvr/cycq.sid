@@ -1,10 +1,10 @@
 // CYCQ SIDs
-// Auto-generated 8/10/2024 by Wes Sleeman (XA)
+// Auto-generated 11/1/2024 by Wes Sleeman (XA)
 
 
-//// IRBAS2 ////
-CYCQ;05;IRBAS2;CYCQ;CYCQ;
+//// IRBAS3 ////
+CYCQ;05;IRBAS3;CYCQ;CYCQ;
 IRBAS;IRBAS;<br>;
-IRBAS;IRBAS;@6300;
+IRBAS;IRBAS;^6300;
 
-//// END IRBAS2 ////
+//// END IRBAS3 ////

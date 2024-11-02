@@ -66,6 +66,7 @@ F;airspace\control_zones.artcc
 
 [GEO]
 F;geo\coast.geo
+F;geo\coast2.geo
 F;cyyz_txicenterlines.geo
 F;cyyz_stoplines.geo
 F;cyhm_txicenterlines.geo

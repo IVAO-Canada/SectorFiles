@@ -1,11 +1,19 @@
 // CYDL SIDs
-// Auto-generated 8/10/2024 by Wes Sleeman (XA)
+// Auto-generated 11/1/2024 by Wes Sleeman (XA)
 
 
-//// OMRUN1 ////
-CYDL;03;OMRUN1;CYDL;CYDL;
+//// OMRUN2 ////
+CYDL;03;OMRUN2;CYDL;CYDL;
 ITLIP;ITLIP;<br>;
 VODUT;VODUT;
-OMRUN;OMRUN;^7100;
+OMRUN;OMRUN;^8700;
 
-//// END OMRUN1 ////
+//// END OMRUN2 ////
+
+//// TIBID1 ////
+CYDL;21;TIBID1;CYDL;CYDL;
+SAXIR;SAXIR;<br>;
+UDKIB;UDKIB;
+TIBID;TIBID;^8400;
+
+//// END TIBID1 ////

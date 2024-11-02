@@ -1,5 +1,5 @@
 // CYYC STARs
-// Auto-generated 8/10/2024 by Wes Sleeman (XA)
+// Auto-generated 11/1/2024 by Wes Sleeman (XA)
 
 // CYYC Approaches
 
@@ -339,17 +339,6 @@ CYYC;35R;GA RNV35RZ;CYYC;CYYC;5;
 OMREK;OMREK;<br>;
 OMREK;OMREK;@7000;
 //// END RNV35RZ ////
-
-//// VOR26 ////
-CYYC;26;VOR26;CYYC;CYYC;3;
-YYC;YYC;<br>;
-YYC;YYC;@5080 @210K @210K @210K;
-YYC;YYC;
-
-CYYC;26;GA VOR26;CYYC;CYYC;5;
-YYC;YYC;<br>;
-YYC;YYC;@5500;
-//// END VOR26 ////
 
 // CYYC Arrivals
 
