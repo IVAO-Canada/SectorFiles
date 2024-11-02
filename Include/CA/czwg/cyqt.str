@@ -1,5 +1,5 @@
 // CYQT STARs
-// Auto-generated 8/10/2024 by Wes Sleeman (XA)
+// Auto-generated 11/1/2024 by Wes Sleeman (XA)
 
 // CYQT Approaches
 
@@ -7,8 +7,8 @@
 //// ILS07 ////
 CYQT;07;ILS07;CYQT;CYQT;3;
 FESET;FESET;<br>;
-FESET;FESET;^3200;
-BOBTI;BOBTI;@2070 @210K @210K @210K 
+FESET;FESET;^2800;
+BOBTI;BOBTI;@2070;
 KEBTU;KEBTU;<br>;
 KEBTU;KEBTU;^4000 @210K;
 FESET;FESET;

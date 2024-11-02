@@ -1,5 +1,5 @@
 // CYPW STARs
-// Auto-generated 8/10/2024 by Wes Sleeman (XA)
+// Auto-generated 11/1/2024 by Wes Sleeman (XA)
 
 // CYPW Approaches
 
@@ -9,7 +9,6 @@ CYPW;09;RNV09;CYPW;CYPW;3;
 SEGUP;SEGUP;<br>;
 SEGUP;SEGUP;^3900;
 OMOGA;OMOGA;@2000;
-URMAX;URMAX;@696;
 DULNU;DULNU;<br>;
 SEGUP;SEGUP;
 VOBOV;VOBOV;<br>;
@@ -17,7 +16,7 @@ SEGUP;SEGUP;
 
 CYPW;09;GA RNV09;CYPW;CYPW;5;
 IKUPI;IKUPI;<br>;
-NOTIR;NOTIR;@6000;
+NOTIR;NOTIR;@6200;
 //// END RNV09 ////
 
 //// RNV27 ////

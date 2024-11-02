@@ -1,5 +1,5 @@
 // CYHO STARs
-// Auto-generated 8/10/2024 by Wes Sleeman (XA)
+// Auto-generated 11/1/2024 by Wes Sleeman (XA)
 
 // CYHO Approaches
 
@@ -24,8 +24,8 @@ TIBIG;TIBIG;@2000;
 //// RNV24 ////
 CYHO;24;RNV24;CYHO;CYHO;3;
 EPMEN;EPMEN;<br>;
-EPMEN;EPMEN;^1300;
-DUSUL;DUSUL;@1300;
+EPMEN;EPMEN;^1400;
+DUSUL;DUSUL;@1400;
 LERAR;LERAR;<br>;
 LERAR;LERAR;@210K;
 EPMEN;EPMEN;
