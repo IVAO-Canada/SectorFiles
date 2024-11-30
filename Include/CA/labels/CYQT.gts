@@ -1,0 +1,3 @@
+Pilatus Hangar;CYQT;48.37654;-089.32016;
+Ornge Hangar;CYQT;48.3771;-089.3185;
+Apron IX;CYQT;48.37733;-089.31508;
