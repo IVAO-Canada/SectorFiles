@@ -14,28 +14,25 @@ jobs:
         - uses: actions/checkout@v1
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r CZEG.zip . -i Include/CA/czeg/* "CZEG Edmonton FIR.isc"
+            args: zip -qq -r CZEG.zip . -i Include/CA/CZEG/* "CZEG.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r CZQM.zip . -i Include/CA/czqm/* "CZQM Moncton FIR.isc"
+            args: zip -qq -r CZQM.zip . -i Include/CA/CZQM/* "CZQM.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r CZUL.zip . -i Include/CA/czul/* "CZUL Montreal FIR.isc"
+            args: zip -qq -r CZUL.zip . -i Include/CA/CZUL/* "CZUL.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r CZQX.zip . -i Include/CA/czqx/* "CZQX Gander-Shanwick Oceanic FIR.isc"
-        - uses: montudor/action-zip@v1
-          with:        
-            args: zip -qq -r CDQX.zip . -i Include/CA/cdqx/* "CDQX Gander FIR.isc"                       
+            args: zip -qq -r CZQX.zip . -i Include/CA/CZQX/* "CZQX.isc"              
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r CZVR.zip . -i Include/CA/czvr/* "CZVR Vancouver FIR.isc"
+            args: zip -qq -r CZVR.zip . -i Include/CA/CZVR/* "CZVR.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r CZWG.zip . -i Include/CA/czwg/* "CZWG Winnipeg FIR.isc"
+            args: zip -qq -r CZWG.zip . -i Include/CA/CZWG/* "CZWG.isc"
         - uses: montudor/action-zip@v1
           with:
-            args: zip -qq -r CZYZ.zip . -i Include/CA/czyz/* "CZYZ Toronto FIR.isc"
+            args: zip -qq -r CZYZ.zip . -i Include/CA/CZYZ/* "CZYZ.isc"
         - uses: montudor/action-zip@v1
           with:
             args: zip -qq -r ALL_SECTORS.zip . -i *.zip
