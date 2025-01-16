@@ -33,7 +33,6 @@ East De-Ice;CYYC;51.12406;-113.99738;
 International Terminal;CYYC;51.12855;-114.0052;
 Apron IX;CYYC;51.12944;-114.03206;
 Sunwest Aviation Ltd.;CYYC;51.12971;-114.02813;
-Delta Airport;CYYC;51.13102;-114.01032;
 Westjet Encore Hanger;CYYC;51.13245;-114.02837;
 Domestic Terminal;CYYC;51.13108;-114.01156;
 Canadian North;CYYC;51.09757;-114.01074;

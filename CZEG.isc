@@ -1,17 +1,17 @@
 [INFO]
-N59.15.35.824
-W111.55.32.020
+N59.16.36.763
+W111.52.13.733
 60
 31
-10.1640
+10.1348
 CA/CZEG;CA/labels;CA/geos;CA/polygons;CA/procedures;CA/navaids;CA/mvas;CA/videomaps
 
 [DEFINE]
-TAXIWAY;#FF999A99;
-APRON;#FFB9BBBB;
+TAXIWAY;#FF353B42;
+APRON;#FF26292E;
 OUTLINE;#FF000000;
-BUILDING;#FF773333;
-RUNWAY;#FF555555;
+BUILDING;#FF5C3630;
+RUNWAY;#FF1A1A1A;
 STOPBAR;#FFB30000;
 
 
@@ -215,7 +215,6 @@ F;CFT5.geo
 F;CFT8.geo
 F;CFU3.geo
 F;CFU4.geo
-F;CFU8.geo
 F;CFV2.geo
 F;CFV3.geo
 F;CFV6.geo
@@ -279,7 +278,6 @@ F;CNL2.geo
 F;CNL9.geo
 F;CPB8.geo
 F;CPE8.geo
-F;CPL6.geo
 F;CRD2.geo
 F;CRD5.geo
 F;CRD6.geo
@@ -325,6 +323,7 @@ F;CYEA.geo
 F;CYED.geo
 F;CYEG.geo
 F;CYEK.geo
+F;CYEP.geo
 F;CYET.geo
 F;CYEU.geo
 F;CYEV.geo
@@ -418,6 +417,9 @@ F;CZVL.geo
 F;CZWH.geo
 F;CZWL.geo
 F;CFB7.geo
+F;CFU8.geo
+F;CA-0304.geo
+F;CC157.geo
 F;CAC6.geo
 F;CFU9.geo
 F;CFL3.geo

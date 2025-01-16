@@ -1,3 +1,3 @@
 Garage Municipal;CYBC;49.13733;-068.19526;
-Labrador Air Safari;CYBC;49.1372;-068.19601;
-Exact Air;CYBC;49.13672;-068.19767;
+Labrador Air Safari;CYBC;49.13715;-068.19599;
+Exact Air;CYBC;49.13673;-068.19768;
