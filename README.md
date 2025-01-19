@@ -1,22 +1,58 @@
-# IVAO Canada Sectorfiles Repository  
+Candana Sectorfiles Repository
+Overview
 
-## FAQ
 
-Q: How often are sectorfiles released?
-A: All FIR sectorfiles are published each AIRAC cycle.
+FAQ
+Q: How often are sectorfiles updated?
+A: All sectorfiles are updated at least every AIRAC cycle, typically more frequently.
 
 Q: Can anyone contribute?
-A: Yes, simply follow the tutorials in our wiki on getting started.
+A: Yes! Our data comes from the wonderful OpenStreetMap project. Follow our tutorials to get started.
 
-## Structure
+Q: What do I do if I find a problem?
+A: File an issue!
 
-Sectorfiles for each FIR/ARTCC are stored and managed separately. This repository stores files using the same directory structure as Aurora. Sectorfile definitions (the `.isc` files) are stored in the root of the repository, and the referenced files are stored in `Include/CA/<name of FIR>/`. To contribute, fork this repository, make a new branch with a name following this pattern `<center>-<change>-<VID>` where `<center>` is a four letter ICAO code (e.g. `CZYZ`, `CZUL`, `CZVR`, etc.), `<change>` is what you wish to add/remove/update (e.g. `sid`, `star`, `airac`, etc. Consult the labels for ideas), and `<VID>` is your 6-digit IVAO VID. After reviewing the changes, the pull request will either be approved and merged (meaning the changes will appear in the next public release of the sector file), have modifications requested (typically as comments on the pull request), or will be rejected (the changes are not consistent in principle with the usage of our sectorfiles).  
+Getting Started
+All ground-based data comes from OpenStreetMap. You can edit the data here. For a more in-depth explnation, watch our YouTube tutorial.
 
-## Getting Started  
+Structure
+Each FIR has a single "sectorfile" which is stored in the repository. These sectorfiles are named after the FIR with the extension .isc (e.g. CZVR.isc for Vancouver). The majority of data is stored in the CA folder (inside Include) and is split into a number of folders, detailed below.
 
-To get started, press the "Fork" button on the top right of the [repository's main page](https://github.com/IVAO-Canada/Sector-Files). When you are done making changes, file a new [pull request](https://github.com/IVAO-Canada/Sector-Files/pulls), assign yourself, add the appropriate labels (described below), and request a reviewer. Thank you for your interest in contributing your time and efforts to our division.  
+GEOs
+GEOs are the taxiway and gate centerlines for each airport, as well as the coastline information which is shared between all sectors. Each airport has a file ending in .geo (e.g. CYVR.geo) containing the centerlines, and a shared file named coast.geo contains all the coastlines.
 
-## More information  
+Labels
+Labels are the little bits of text that are shown over the taxiways, gates, terminals, and aprons. These are split into two files for each airport: a .txi file containing the taxiway labels, and a .gts file containing all other labels.
 
-Learn more about editing sectorfiles: <https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition>  
+Navaids
+Navaids are aids to navigation. In Aurora, we use the term to refer specifically to VORs and NDBs.
 
+Polygons
+Polygons are the shapes that make up the airport layouts. They are the taxiways, runways, aprons, terminals, and anything else that appears "filled-in" in Aurora.
+
+Procedures
+Procedures are SIDs, STARs, and approaches. SIDs are stored in files ending .sid (e.g. CYVR.sid), while STARs and approaches are stored in files ending .str (e.g. CYVR.str).
+
+FIRs
+Each FIR has its own folder containing information specific to it.
+
+Airports
+The airports.ap file contains the ICAO code, elevation, location, and name of each airport displayed in the sectorfile.
+
+Airways
+The airways.high and airways.low contain the high and low (respectively) airways which pass through the FIR.
+
+ARTCC
+The artcc.artcc file contains the ARTCC boundaries displayed in Aurora. low.artcc contains the boundaries of the class B airports within the sector. Originally class C and D airports were included, but they were removed for performance reasons.
+
+ATC
+The atc.atc file contains the list of positions which you can connect to in the sector as well as their frequencies.
+
+Fixes
+The fixes.fix file contains the fixes used by the procedures, airways, and airspaces within the sector. vfr.fix contains the visual reporting points (points starting with VP, e.g. VPLQM) in the sector.
+
+Runways
+The runways.rw file contains the identifiers, elevations, courses, and endpoint positions of all runways in the sector.
+
+More information
+Learn more about reading sectorfiles: https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition
