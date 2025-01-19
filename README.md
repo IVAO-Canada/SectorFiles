@@ -18,7 +18,7 @@ more in-depth explnation, watch our [YouTube tutorial](https://youtu.be/-sbA0QU6
 
 ## Structure
 
-Each ARTCC has a single "sectorfile" which is stored in the repository. These sectorfiles are named after the ARTCC
+Each FIR has a single "sectorfile" which is stored in the repository. These sectorfiles are named after the FIR
 with the extension `.isc` (e.g. `CZVR.isc` for the Vancouver FIR). The majority of data is stored in the `CA` folder (inside
 `Include`) and is split into a number of folders, detailed below.
 
