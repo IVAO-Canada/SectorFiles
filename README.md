@@ -14,7 +14,7 @@ A: [File an issue](https://github.com/IVAO-Canada/SectorFiles/issues/new/choose)
 ## Getting Started
 
 All ground-based data comes from OpenStreetMap. You can edit the data [here](https://openstreetmap.org/). For a
-more in-depth explnation, watch our [YouTube tutorial](https://youtu.be/-sbA0QU6yv8).  
+more in-depth explnation, watch the IVAO US Divisions [YouTube tutorial](https://youtu.be/-sbA0QU6yv8).  Same method, you are just editing Canadian airports instead!
 
 ## Structure
 
