@@ -1,9 +1,9 @@
 [INFO]
-N59.16.36.763
-W111.52.13.733
+N59.12.13.737
+W111.52.15.657
 60
 31
-10.1840
+10.0909
 CA/CZEG;CA/labels;CA/geos;CA/polygons;CA/procedures;CA/navaids;CA/mvas;CA/videomaps
 
 [DEFINE]
@@ -288,7 +288,6 @@ F;CRL7.geo
 F;CRW4.geo
 F;CSF5.geo
 F;CSF6.geo
-F;CSK6.geo
 F;CSP3.geo
 F;CTB8.geo
 F;CTF5.geo

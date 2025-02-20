@@ -1,9 +1,9 @@
 [INFO]
-N52.28.49.263
-W097.03.21.868
+N52.28.48.147
+W097.10.02.286
 60
 37
-02.5305
+02.6530
 CA/CZWG;CA/labels;CA/geos;CA/polygons;CA/procedures;CA/navaids;CA/mvas;CA/videomaps
 
 [DEFINE]
@@ -140,7 +140,6 @@ F;CJT3.geo
 F;CJT4.geo
 F;CJT5.geo
 F;CJT8.geo
-F;CJT9.geo
 F;CJU3.geo
 F;CJU4.geo
 F;CJU5.geo
@@ -208,7 +207,6 @@ F;CKQ3.geo
 F;CKQ5.geo
 F;CKQ6.geo
 F;CKQ7.geo
-F;CKQ9.geo
 F;CKR3.geo
 F;CKR4.geo
 F;CKR7.geo
@@ -243,7 +241,6 @@ F;CSF8.geo
 F;CSR2.geo
 F;CTN6.geo
 F;CTR8.geo
-F;CVM2.geo
 F;CWL4.geo
 F;CXX2.geo
 F;CYAC.geo
