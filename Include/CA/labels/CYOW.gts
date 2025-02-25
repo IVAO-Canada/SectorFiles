@@ -1,4 +1,6 @@
+Ottawa Macdonald-Cartier International Airport;CYOW;45.32207;-075.66978;
 Apron 1;CYOW;45.32189;-075.6678;
+ORNGE Air Ambulance;CYOW;45.3142;-075.65447;
 De-icing pad;CYOW;45.32597;-075.67732;
 Apron II;CYOW;45.32477;-075.67387;
 Main apron;CYOW;45.32148;-075.66793;

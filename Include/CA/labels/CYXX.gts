@@ -1,1 +1,13 @@
+UFV Aerospace Training Centre;CYXX;49.03049;-122.37652;
+Air Terminal Building;CYXX;49.02222;-122.38176;
+International Arrivals;CYXX;49.02313;-122.38114;
+Copac Air Services Ltd.;CYXX;49.02545;-122.37971;
+Conair Aerial Firefighting;CYXX;49.02962;-122.37618;
 Run-Up Apron;CYXX;49.02682;-122.36627;
+Cascade Aerospace;CYXX;49.02653;-122.36219;
+BCEHS 205 Airside Annex;CYXX;49.02435;-122.36082;
+Conair Aerial Firefighting;CYXX;49.02783;-122.37761;
+Principal Air Ltd;CYXX;49.02444;-122.3803;
+Sequoia Helicopters;CYXX;49.03345;-122.3731;
+Campbell Helicopters;CYXX;49.03331;-122.37349;
+Bakerview Aviation Ltd.;CYXX;49.02376;-122.38075;
