@@ -53,7 +53,7 @@ Million Air;CYVR;49.18088;-123.16189;
 6;CYVR;49.19677;-123.18092;
 6;CYVR;49.19696;-123.17371;
 Vancouver International Airport - Domestic Terminal;CYVR;49.19395;-123.18344;
-Vancouver International Airport - International Terminal;CYVR;49.19629;-123.17946;
+Vancouver International Airport - International Terminal;CYVR;49.19629;-123.17945;
 4/5;CYVR;49.18775;-123.16157;
 Signature Aviation;CYVR;49.18109;-123.16518;
 S2B;CYVR;49.1903959;-123.1819169;
