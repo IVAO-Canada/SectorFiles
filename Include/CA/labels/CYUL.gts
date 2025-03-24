@@ -1,13 +1,12 @@
-Zone Domestique;CYUL;45.4602;-073.74922;
+Zone Domestique;CYUL;45.46021;-073.74923;
 Terminal Hydro-Québec;CYUL;45.4787;-073.73193;
 Starlink Aviation;CYUL;45.47413;-073.71515;
 Station de dégivrage;CYUL;45.46572;-073.74756;
 Stationnement central;CYUL;45.46766;-073.74825;
 Stationnement nord;CYUL;45.46417;-073.75463;
-Main;CYUL;45.45889;-073.75222;
-Zone Internationale;CYUL;45.45892;-073.75535;
-Zone Transfrontalière;CYUL;45.45566;-073.75552;
-Aéroport International Montréal-Trudeau - YUL;CYUL;45.45717;-073.755;
+Zone Internationale;CYUL;45.45893;-073.75542;
+Zone Transfrontalière;CYUL;45.45602;-073.75532;
+Aéroport International Montréal-Trudeau - YUL;CYUL;45.45724;-073.75492;
 N4;CYUL;45.4643987;-073.7525688;
 N2;CYUL;45.4643292;-073.7546374;
 N1;CYUL;45.4642987;-073.7556658;
