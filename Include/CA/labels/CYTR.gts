@@ -1,5 +1,0 @@
-10 Hangar;CYTR;44.11135;-077.53259;
-9 Hangar - 424 Transport & Rescue Squadron;CYTR;44.10825;-077.54239;
-1 Hangar;CYTR;44.11745;-077.54458;
-2 Hangar;CYTR;44.11559;-077.54411;
-6 Hangar;CYTR;44.10992;-077.5343;
