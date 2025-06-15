@@ -3,7 +3,7 @@ N59.10.02.539
 W111.52.13.643
 60
 31
-10.0862
+10.0723
 CA/CZEG;CA/labels;CA/geos;CA/polygons;CA/procedures;CA/navaids;CA/mvas;CA/videomaps
 
 [DEFINE]
@@ -292,7 +292,6 @@ F;CTF5.geo
 F;CTF6.geo
 F;CTM7.geo
 F;CVL2.geo
-F;CVS2.geo
 F;CWL3.geo
 F;CWR2.geo
 F;CYAB.geo
