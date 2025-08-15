@@ -1,9 +1,9 @@
 [INFO]
-N45.35.33.077
-W080.49.54.258
+N45.30.05.406
+W080.47.46.901
 60
 42
--09.6385
+-09.6477
 CA/CZYZ;CA/labels;CA/geos;CA/polygons;CA/procedures;CA/navaids;CA/mvas;CA/videomaps
 
 [DEFINE]
@@ -62,9 +62,7 @@ F;coast.geo
 F;WEST.geo
 F;EAST.geo
 F;SOUTH.geo
-F;CAD9.geo
 F;CAF2.geo
-F;CAJ5.geo
 F;CAP2.geo
 F;CAR4.geo
 F;CAT1.geo
@@ -72,7 +70,6 @@ F;CAY5.geo
 F;CBA7.geo
 F;CBB2.geo
 F;CBF3.geo
-F;CBG3.geo
 F;CBH5.geo
 F;CBL8.geo
 F;CBM2.geo
@@ -88,7 +85,6 @@ F;CDF5.geo
 F;CDF6.geo
 F;CDG3.geo
 F;CDH6.geo
-F;CDM3.geo
 F;CDT9.geo
 F;CDU5.geo
 F;CDU7.geo
@@ -103,13 +99,11 @@ F;CGF6.geo
 F;CGF7.geo
 F;CGL2.geo
 F;CGV7.geo
-F;CHA4.geo
 F;CHF4.geo
 F;CHF5.geo
 F;CJA2.geo
 F;CKD8.geo
 F;CKP4.geo
-F;CKS3.geo
 F;CLA4.geo
 F;CLC2.geo
 F;CLH5.geo
@@ -140,6 +134,7 @@ F;CNE4.geo
 F;CNE9.geo
 F;CNF4.geo
 F;CNF8.geo
+F;CNF9.geo
 F;CNJ4.geo
 F;CNK4.geo
 F;CNL4.geo
@@ -154,6 +149,7 @@ F;CNR2.geo
 F;CNR4.geo
 F;CNR5.geo
 F;CNT6.geo
+F;CNT7.geo
 F;CNT9.geo
 F;CNU4.geo
 F;CNU8.geo
@@ -166,7 +162,6 @@ F;CNY4.geo
 F;CNZ4.geo
 F;CNZ8.geo
 F;COK3.geo
-F;COP5.geo
 F;COR3.geo
 F;COR8.geo
 F;COS2.geo
@@ -207,13 +202,11 @@ F;CPV4.geo
 F;CPZ3.geo
 F;CRA3.geo
 F;CRB2.geo
-F;CRJ2.geo
 F;CRL2.geo
 F;CRL9.geo
 F;CRM5.geo
 F;CRML.geo
 F;CRS4.geo
-F;CRV3.geo
 F;CSB7.geo
 F;CSC9.geo
 F;CSD7.geo
@@ -235,7 +228,6 @@ F;CWB2.geo
 F;CWF3.geo
 F;CWF4.geo
 F;CWH5.geo
-F;CWP5.geo
 F;CYAM.geo
 F;CYCE.geo
 F;CYCK.geo
@@ -283,6 +275,7 @@ F;CYXZ.geo
 F;CYYB.geo
 F;CYYU.geo
 F;CYYZ.geo
+F;CYZD.geo
 F;CYZE.geo
 F;CYZR.geo
 F;CZBA.geo

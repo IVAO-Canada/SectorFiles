@@ -1,9 +1,9 @@
 [INFO]
-N59.10.02.539
-W111.52.13.643
+N59.22.17.090
+W111.55.33.379
 60
 31
-10.0718
+10.1503
 CA/CZEG;CA/labels;CA/geos;CA/polygons;CA/procedures;CA/navaids;CA/mvas;CA/videomaps
 
 [DEFINE]
@@ -96,6 +96,7 @@ F;CCP7.geo
 F;CDJ5.geo
 F;CDK2.geo
 F;CDM2.geo
+F;CDO2.geo
 F;CDT8.geo
 F;CEA3.geo
 F;CEA5.geo
@@ -194,6 +195,7 @@ F;CFN5.geo
 F;CFN6.geo
 F;CFN7.geo
 F;CFP4.geo
+F;CFP5.geo
 F;CFP6.geo
 F;CFP8.geo
 F;CFQ5.geo
@@ -213,6 +215,7 @@ F;CFT5.geo
 F;CFT8.geo
 F;CFU3.geo
 F;CFU4.geo
+F;CFU8.geo
 F;CFV2.geo
 F;CFV3.geo
 F;CFV6.geo
@@ -276,6 +279,7 @@ F;CNL2.geo
 F;CNL9.geo
 F;CPB8.geo
 F;CPE8.geo
+F;CPL6.geo
 F;CRD2.geo
 F;CRD5.geo
 F;CRD6.geo
@@ -286,12 +290,14 @@ F;CRL7.geo
 F;CRW4.geo
 F;CSF5.geo
 F;CSF6.geo
+F;CSK6.geo
 F;CSP3.geo
 F;CTB8.geo
 F;CTF5.geo
 F;CTF6.geo
 F;CTM7.geo
 F;CVL2.geo
+F;CVS2.geo
 F;CWL3.geo
 F;CWR2.geo
 F;CYAB.geo
@@ -319,7 +325,6 @@ F;CYEA.geo
 F;CYED.geo
 F;CYEG.geo
 F;CYEK.geo
-F;CYEP.geo
 F;CYET.geo
 F;CYEU.geo
 F;CYEV.geo
@@ -413,7 +418,6 @@ F;CZVL.geo
 F;CZWH.geo
 F;CZWL.geo
 F;CFB7.geo
-F;CFU8.geo
 F;CA-0304.geo
 F;CC157.geo
 F;CAC6.geo
