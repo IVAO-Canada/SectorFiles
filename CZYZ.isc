@@ -3,7 +3,7 @@ N45.35.33.077
 W080.49.54.258
 60
 42
--09.6400
+-09.6385
 CA/CZYZ;CA/labels;CA/geos;CA/polygons;CA/procedures;CA/navaids;CA/mvas;CA/videomaps
 
 [DEFINE]
@@ -44,7 +44,7 @@ F;airways.high
 [VFRENR]
 F;vfr.vfi
 
-[VFRROUTE]
+[VFRRTEENR]
 F;vfr.vrt
 
 

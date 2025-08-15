@@ -3,7 +3,7 @@ CMP Aviation;CYHU;45.51494;-073.40753;
 Chrono Aviation Saint-Hubert;CYHU;45.51453;-073.40869;
 DASH-L;CYHU;45.5138;-073.40967;
 Air Medic;CYHU;45.51239;-073.41142;
-École National D'Aérotechnique;CYHU;45.52243;-073.42148;
+École Nationale d'Aérotechnique;CYHU;45.52243;-073.42153;
 Max Aviation Inc;CYHU;45.51606;-073.40571;
 Cpaq.aero;CYHU;45.50956;-073.42157;
 WAAS Aerospace;CYHU;45.51916;-073.42554;

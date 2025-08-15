@@ -3,7 +3,7 @@ N51.06.41.179
 W123.01.10.165
 60
 38
-15.7356
+15.7222
 CA/CZVR;CA/labels;CA/geos;CA/polygons;CA/procedures;CA/navaids;CA/mvas;CA/videomaps
 
 [DEFINE]
@@ -42,7 +42,7 @@ F;airways.high
 [VFRENR]
 F;vfr.vfi
 
-[VFRROUTE]
+[VFRRTEENR]
 F;vfr.vrt
 
 
@@ -118,6 +118,7 @@ F;CYCW.geo
 F;CYCZ.geo
 F;CYDC.geo
 F;CYGB.geo
+F;CYHC.geo
 F;CYHE.geo
 F;CYJM.geo
 F;CYJQ.geo
@@ -170,7 +171,6 @@ F;CAY4.geo
 F;CWZM.geo
 F;WEM.geo
 F;WCZ.geo
-F;CYHC.geo
 
 [FILLCOLOR]
 F;online.ply
