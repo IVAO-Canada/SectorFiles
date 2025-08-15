@@ -1,9 +1,9 @@
 [INFO]
-N46.04.28.270
-W064.56.39.945
+N46.01.08.119
+W064.56.39.047
 60
 42
--16.5156
+-16.3303
 CA/CZQM;CA/labels;CA/geos;CA/polygons;CA/procedures;CA/navaids;CA/mvas;CA/videomaps
 
 [DEFINE]
@@ -95,6 +95,7 @@ F;CDV2.geo
 F;CDW2.geo
 F;CDY6.geo
 F;CFH4.geo
+F;CGR7.geo
 F;CHL2.geo
 F;CKZ5.geo
 F;CLE4.geo

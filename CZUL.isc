@@ -3,7 +3,7 @@ N50.54.24.159
 W071.50.03.485
 60
 38
--16.0484
+-15.8956
 CA/CZUL;CA/labels;CA/geos;CA/polygons;CA/procedures;CA/navaids;CA/mvas;CA/videomaps
 
 [DEFINE]
@@ -61,6 +61,8 @@ F;coast.geo
 F;CAA2.geo
 F;CAA4.geo
 F;CAL8.geo
+F;CDJ8.geo
+F;CDN2.geo
 F;CEL8.geo
 F;CES2.geo
 F;CFX5.geo
@@ -106,7 +108,6 @@ F;CSH5.geo
 F;CSJ2.geo
 F;CSJ4.geo
 F;CSJ5.geo
-F;CSK4.geo
 F;CSK5.geo
 F;CSL3.geo
 F;CSL5.geo
@@ -223,7 +224,6 @@ F;CTK2.geo
 F;CRT2.geo
 F;CRS7.geo
 F;CZGS.geo
-F;CDJ8.geo
 
 [FILLCOLOR]
 F;online.ply
