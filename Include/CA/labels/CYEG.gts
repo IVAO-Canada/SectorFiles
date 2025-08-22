@@ -1,4 +1,4 @@
-Apron 1;CYEG;53.30572;-113.58331;
+Apron 1;CYEG;53.30573;-113.58333;
 Edmonton International Airport Terminal;CYEG;53.3065;-113.5849;
 Canadian North;CYEG;53.31899;-113.57529;
 STARS / AHS Medevac Base;CYEG;53.29029;-113.56115;
