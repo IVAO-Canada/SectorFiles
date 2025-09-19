@@ -1,1 +1,1 @@
-Charlottetown Airport;CYYG;46.28582;-063.13211;
+Charlottetown Airport;CYYG;46.2857;-063.13213;
