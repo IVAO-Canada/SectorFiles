@@ -1,4 +1,5 @@
 GRC;CYHU;45.51302;-073.41063;
+Terminal de passagers Porter;CYHU;45.52027;-073.40098;
 CMP Aviation;CYHU;45.51494;-073.40753;
 Chrono Aviation Saint-Hubert;CYHU;45.51453;-073.40869;
 DASH-L;CYHU;45.5138;-073.40967;

@@ -3,7 +3,7 @@ N46.01.08.119
 W064.56.39.047
 60
 42
--16.3212
+-16.3152
 CA/CZQM;CA/labels;CA/geos;CA/polygons;CA/procedures;CA/navaids;CA/mvas;CA/videomaps
 
 [DEFINE]
@@ -60,7 +60,6 @@ F;coast.geo
 F;SOUTH.geo
 F;CCA3.geo
 F;CCA7.geo
-F;CCB6.geo
 F;CCD3.geo
 F;CCE3.geo
 F;CCF3.geo
@@ -83,7 +82,6 @@ F;CCX3.geo
 F;CCY3.geo
 F;CCY4.geo
 F;CCZ5.geo
-F;CDA3.geo
 F;CDA4.geo
 F;CDA6.geo
 F;CDH3.geo

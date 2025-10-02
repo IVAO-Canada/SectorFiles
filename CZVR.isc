@@ -1,9 +1,9 @@
 [INFO]
-N51.06.41.179
-W123.01.10.165
+N50.59.57.988
+W122.52.13.539
 60
 38
-15.6800
+15.6273
 CA/CZVR;CA/labels;CA/geos;CA/polygons;CA/procedures;CA/navaids;CA/mvas;CA/videomaps
 
 [DEFINE]
@@ -83,7 +83,6 @@ F;CAV4.geo
 F;CAX5.geo
 F;CAZ5.geo
 F;CBA8.geo
-F;CBB6.geo
 F;CBB9.geo
 F;CBBC.geo
 F;CBF9.geo
