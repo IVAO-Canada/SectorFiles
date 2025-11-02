@@ -1,2 +1,0 @@
-A;CYGK;44.22049;-076.59639;
-Passenger Terminal;CYGK;44.21875;-076.59826;
