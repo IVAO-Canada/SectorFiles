@@ -3,7 +3,7 @@ N52.28.48.147
 W097.10.02.275
 60
 37
-02.6274
+02.6222
 CA/CZWG;CA/labels;CA/geos;CA/polygons;CA/procedures;CA/navaids;CA/mvas;CA/videomaps
 
 [DEFINE]
@@ -227,7 +227,6 @@ F;CMC4.geo
 F;CML5.geo
 F;CNE3.geo
 F;CNM5.geo
-F;CPB5.geo
 F;CPJ6.geo
 F;CPS5.geo
 F;CPV7.geo

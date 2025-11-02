@@ -1,0 +1,4 @@
+North Terminal;CYMM;56.65626;-111.2245;
+Apron 2;CYMM;56.6557;-111.22367;
+Fort McMurray Main Terminal;CYMM;56.64921;-111.23105;
+Apron 1;CYMM;56.6499;-111.22711;
