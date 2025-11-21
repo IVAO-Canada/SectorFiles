@@ -1,6 +1,6 @@
 Aire de trafic cargo;CYMX;45.67844;-074.04374;
 Aire de trafic industrielle;CYMX;45.67554;-074.05536;
-Aire de trafic principale;CYMX;45.67802;-074.02858;
+Aire de trafic principale;CYMX;45.67801;-074.0286;
 113;CYMX;45.6795696;-074.0287185;
 11;CYMX;45.6805943;-074.0436747;
 11E;CYMX;45.680389;-074.0425284;
