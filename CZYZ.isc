@@ -3,7 +3,7 @@ N45.37.45.404
 W080.48.50.411
 60
 42
--09.6354
+-09.6292
 CA/CZYZ;CA/labels;CA/geos;CA/polygons;CA/procedures;CA/navaids;CA/mvas;CA/videomaps
 
 [DEFINE]
@@ -187,7 +187,6 @@ F;CPH2.geo
 F;CPH3.geo
 F;CPH9.geo
 F;CPJ5.geo
-F;CPK2.geo
 F;CPL4.geo
 F;CPM5.geo
 F;CPM7.geo
