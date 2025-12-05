@@ -1,3 +1,0 @@
-Old Airport;CYFB;63.75129;-068.53745;
-First Air Hanger;CYFB;63.75035;-068.53538;
-Iqaluit Airport (YFB);CYFB;63.75712;-068.54587;
