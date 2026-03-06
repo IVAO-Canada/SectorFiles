@@ -1,6 +1,6 @@
 Apron 2;CYWG;49.89273;-097.23324;
 Perimeter Airlines;CYWG;49.89544;-097.21908;
-Perimeter Airlines Terminal;CYWG;49.89437;-097.21987;
+Perimeter Airlines Terminal;CYWG;49.89454;-097.21973;
 Apron 7;CYWG;49.89989;-097.22914;
 Apron 6;CYWG;49.89521;-097.22169;
 Central De-Icing Facility;CYWG;49.90386;-097.23417;
