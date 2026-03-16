@@ -1,0 +1,1 @@
+Nakina Airport;CYQN;50.18334;-086.70603;
