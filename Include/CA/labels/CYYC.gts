@@ -1,5 +1,6 @@
 Executive Flight Centre;CYYC;51.10127;-114.03363;
 WestJet Hangar;CYYC;51.12057;-114.00978;
+Aeroterm;CYYC;51.10141;-114.01384;
 De-Icing;CYYC;51.10749;-114.01483;
 International Terminal;CYYC;51.12993;-114.00053;
 Apron III;CYYC;51.09681;-114.01729;
@@ -24,7 +25,6 @@ Apron VI;CYYC;51.09911;-114.02736;
 Apron V;CYYC;51.10047;-114.01114;
 Shell Corporate Terminal;CYYC;51.09881;-114.02893;
 Apron IX De-Ice Pad;CYYC;51.12704;-114.02719;
-CPS Air Support Unit;CYYC;51.0999;-114.00724;
 Domestic Terminal;CYYC;51.12856;-114.00935;
 Domestic Terminal;CYYC;51.12983;-114.0126;
 Domestic Terminal;CYYC;51.13276;-114.0158;
