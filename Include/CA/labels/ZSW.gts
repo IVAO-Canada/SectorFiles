@@ -1,3 +1,0 @@
-Inland Air Ltd.;ZSW;54.32896;-130.28102;
-HeliJet;ZSW;54.3287;-130.28041;
-Harbour Air Ltd;ZSW;54.32973;-130.28155;
