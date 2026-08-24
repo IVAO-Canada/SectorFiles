@@ -1,0 +1,2 @@
+Cdn Harvard Aircraft Assoc;CYTB;42.92363;-080.74617;
+CHAA Hangar;CYTB;42.92388;-080.74475;
